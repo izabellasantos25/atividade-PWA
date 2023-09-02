@@ -3,17 +3,17 @@
     "short_name": "jogo da velha",
     "icons": [
         {
-            "src": "images/controle-de-video-game (1).png",
+            "src": "imagem/icon1.png",
             "sizes": "256x256",
             "type": "image/png"
         },
         {
-            "src": "images/controle-de-video-game.png",
+            "src": "imagem/icon2.png",
             "sizes": "512x512",
             "type": "image/png"
         },
         {
-            "src": "images/controle-de-video-game.png",
+            "src": "imagem/icon2.png",
             "sizes": "512x512",
             "type": "image/png",
             "purpose": "any maskable"
